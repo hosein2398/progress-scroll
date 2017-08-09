@@ -1,0 +1,26 @@
+{
+  "name": "progress-scroll",
+  "version": "0.1.0",
+  "description": "",
+  "main": "progress-scroll.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jshint progress-scroll.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosein2398/progress-scroll.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "Hosein2398 <hosein2398@gmail.com> (google.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hosein2398/progress-scroll/issues"
+  },
+  "homepage": "https://github.com/hosein2398/progress-scroll#readme"
+}

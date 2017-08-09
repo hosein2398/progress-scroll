@@ -1,4 +1,4 @@
- (function (window) {
+(function (window) {
             ProgressScroll = function (args) {
 
                 var the_scroll = document.createElement('div'); // default tag 
@@ -17,7 +17,7 @@
                 the_scroll.style.left = 0;
                 if (args.color) {
                     the_scroll.style.background = args.color;
-                } else {
+                } else { 
                     the_scroll.style.background = "tomato";
                 }
                 var body = document.body;
