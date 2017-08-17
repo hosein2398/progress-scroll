@@ -12,16 +12,15 @@ ProgressScroll({
     color: "black",
     height: "8px",
     beforeRun: function () {
-
+      // do something
     },
     onRuning: function () {
-
+      //do something
     },
     onCompelete: function () {
-
-
+      //do something
     }
 });
-This example was full-optioned one so saw all available option to call `ProgressScroll` .
 
 ```
+This example was full-optioned one so saw all available option to call `ProgressScroll` .
