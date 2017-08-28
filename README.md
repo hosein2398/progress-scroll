@@ -24,4 +24,4 @@ ProgressScroll({
 });
 
 ```
-This example was full-optioned one so you saw all available option to call `ProgressScroll` .
+This example was full-optioned one so you saw all available options to call `ProgressScroll` .
