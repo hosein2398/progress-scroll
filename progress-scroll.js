@@ -41,7 +41,6 @@
                         if (el_top_count < 1) {
                             element_start_top = document.body.scrollTop - Math.abs(element_bound.top);
                         }
-                        console.log(-element_bound.top)
                         el_top_count++;
                         if (args.element) {
                             var body_scroll_top = document.body.scrollTop - element_start_top;
